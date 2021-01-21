@@ -9,6 +9,8 @@ A lot of categorical data had to be converted into dummies in order to be able t
 
 Additionally the classifications of the reasons are listed in the files for those that want more details.
 
+Ultimately, the model can predict with roughly 75% accuracy whether an individual will be excessivley absent and the percentage likelihood that they will be excessively absent. Based on the data provided excessive absence is defined as missing more than 2 hours of that work day. A summary table is constructed at the end and can be read as the coefficient values represent how strong of a factor in absenece. Whereas the odds-ratio column denotes the given odds someone will be excessively absent given that value (i.e. travel expense, having children) is present and cited.
+
 Programming Languages: Python
 
 Tools/Libraries: TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, SciKit-Learn(SKLearn), Jupyter Notebook
