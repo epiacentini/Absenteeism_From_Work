@@ -1,5 +1,9 @@
 # Absenteeism_From_Work
 
+### IMPORTANT NOTE:
+If the notebook is not loading in Github it can alternatively be viewed on this link via nbviewer.
+https://nbviewer.jupyter.org/github/epiacentini/Absenteeism_From_Work/blob/main/Absenteeism%20Project.ipynb
+
 Provided with a data set ~1000 entries related to reasons why people miss time from work and then more specific details about those people.
 This includes their age, distance to work, travel expenses, why they have children and ultimately what was their primary reason for being absent.
 
